@@ -1,0 +1,10 @@
+{
+  "app_title": "App di Traduzione",
+  "chat_input_placeholder": "Inserisci il tuo messaggio qui...",
+  "sidebar_title": "Lingua",
+  "spinner_text": "Traducendo...",
+  "valid_prompt_required": "Per favore, inserisci un messaggio valido.",
+  "formality_title": "Seleziona il livello di formalità:",
+  "select_target_language_title": "Seleziona la lingua:",
+  "error_occurred": "Si è verificato un errore:"
+}

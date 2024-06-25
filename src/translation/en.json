@@ -1,0 +1,11 @@
+{
+  "app_title": "Translation App",
+  "chat_input_placeholder": "Input your prompt here...",
+  "sidebar_title": "Language",
+  "spinner_text": "Translating...",
+  "valid_prompt_required": "Please input a valid prompt.",
+  "formality_title": "Select formality:",
+  "select_target_language_title": "Select target language:",
+  "select_app_language_title": "Chose app language:",
+  "error_occurred": "An error occurred:"
+}
